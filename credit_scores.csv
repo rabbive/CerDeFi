@@ -1,0 +1,6 @@
+credit_score, wallet_address, start_date, end_date
+720, 0x1234567890abcdef1234567890abcdef12345678, 2023-01-01, 2023-12-31
+680, 0xabcdefabcdefabcdefabcdefabcdefabcdefabcdef, 2024-02-01, 2024-12-31
+750, 0x0987654321fedcba0987654321fedcba09876543, 2023-06-15, 2024-06-15
+690, 0x112233445566778899aabbccddeeff0011223344, 2022-03-05, 2022-12-31
+800, 0xabcdefabcdefabcdefabcdefabcdefabcdef123456, 2024-01-10, 2024-12-31

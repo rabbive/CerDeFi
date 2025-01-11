@@ -1,0 +1,15 @@
+[
+    {
+      "credit_score": 720,
+      "wallet_address": "0x1234567890abcdef1234567890abcdef12345678",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31"
+    },
+    {
+      "credit_score": 680,
+      "wallet_address": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcdef",
+      "start_date": "2024-02-01",
+      "end_date": "2024-12-31"
+    }
+  ]
+  
